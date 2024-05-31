@@ -14,7 +14,9 @@ background-color: rgba(0,0,0,0);
 }
 </style>
 """
-# Title of the app
+
+# Apply the styling using st.markdown
+st.markdown(page_bg, unsafe_allow_html=True)
 st.title("BMI Calculator")
 
 # Sidebar for input
