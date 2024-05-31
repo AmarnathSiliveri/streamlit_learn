@@ -6,7 +6,7 @@ st.set_page_config(page_title="BMI Calculator", page_icon="⚖️",)
 page_bg = """
 <style>
 [data-testid='stAppViewContainer'] {
-    background-image: url("https://images.unsplash.com/photo-1617396900799-f4ec2b43c7ae?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: url("https://images.unsplash.com/photo-1712979252795-20561805c217?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDM1fGlVSXNuVnRqQjBZfHxlbnwwfHx8fHw%3D");
     background-size: cover;
 }
 [data-testid="stHeader"] {
